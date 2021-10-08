@@ -1,17 +1,3 @@
-<code>
-  <h1 align="center">Data Structure & Algorithms</h1>
-</code>
-
->   This project is a must to learn for all the **Students/Professionals** who are aiming for the **Big Product Based Companies**. 
-
->   This project is modularised as per the structure from **Coding Ninja** platform. I highly recommend to follow it **step-by-step** and hope, you will be get the most out of it.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub stars](https://img.shields.io/github/stars/coding-ninja-dsa-competitive-package/codig-ninja-dsa-learning?color=orange&logo=github&style=for-the-badge)](GithubBadgeShields) 
-[![GitHub forks](https://img.shields.io/github/forks/coding-ninja-dsa-competitive-package/codig-ninja-dsa-learning?color=orange&logo=github&style=for-the-badge)](GithubBadgeShields)
-[![Generic badge](https://img.shields.io/badge/language-c%2B%2B-yellowgreen?style=for-the-badge&logo=c%2B%2B)](GithubBadgeShields)
-
----
 
 ### Pre-Requisite 
 
