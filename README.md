@@ -1,12 +1,5 @@
-<code>
-  <h1 align="center">Coding Ninjas Premium - DSA & Competitive Programming</h1>
-</code>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/coding-ninja-dsa-competitive-package/codig-ninja-dsa-learning?color=skyblue&logo=github&style=for-the-badge)](GithubBadgeShields) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/coding-ninja-dsa-competitive-package/codig-ninja-dsa-learning?style=for-the-badge&logo=git&color=green)](GithubBadgeShields) 
-[![GitHub stars](https://img.shields.io/github/stars/coding-ninja-dsa-competitive-package/codig-ninja-dsa-learning?color=orange&logo=github&style=for-the-badge)](GithubBadgeShields) 
-
----
+  <h1 align="center">Coding Ninjas Premium - DSA 
 
 This project contains all the assignments and learning material from the Coding Ninjas Premium Course. It is a complete package of learning from **Introduction to C++** to **Data structure and algorithm**
 
